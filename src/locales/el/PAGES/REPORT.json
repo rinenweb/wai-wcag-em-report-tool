@@ -1,0 +1,9 @@
+{
+    "TITLE": "Αναφορά",
+    "BTN_SAVE_HTML": "Μεταφόρτωση Αναφοράς (HTML)",
+    "BTN_SAVE_JSON": "Μεταφόρτωση Αναφοράς (JSON)",
+    "HEADER_SUCCESS_CRITERION": "Κριτήριο Επιτυχίας",
+    "HEADER_RESULT": "Αποτέλεσμα",
+    "HEADER_OBSERVATIONS": "Παρατηρήσεις",
+    "NO_OBSERVATIONS_FOUND": "Δεν προστέθηκαν παρατηρήσεις"
+}
