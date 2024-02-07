@@ -1,1 +1,10 @@
-
+{
+    "PASSED": "Επιτυχία",
+    "FAILED": "Αποτυχία",
+    "CANT_TELL": "Απροσδιόριστο",
+    "INAPPLICABLE": "Δεν εφαρμόζεται",
+    "UNTESTED": "Δεν ελέγχθηκε",
+    "LEVEL_A": "Επίπεδο A",
+    "LEVEL_AA": "Επίπεδο AA",
+    "LEVEL_AAA": "Επίπεδο AAA"
+}
